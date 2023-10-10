@@ -15,7 +15,7 @@ The **Territorial Ecology Graph** represents the Local Urban Metabolism, integra
 ## 3. Algorithms of Ecological Potential
 Our **Algorithms of Ecological Potential** evaluate local contexts, highlighting areas for positive change in the metabolism. By identifying opportunities, such as supporting key services or enabling synergies between local actors, we offer actionable challenges to the community. We continuously expand our database of 'ecological actions' to promote circularity and sustainability.
 
-- [Mobility Referential repository](https://github.com/comite-eco-org/mobility-referential)
+- [Mobility Referential repository](https://github.com/odyssee-co/mobility-referential)
 - [Co-working Spaces Optimization repository](https://github.com/odyssee-co/tiers-lieux)
 
 ## Our Mission
